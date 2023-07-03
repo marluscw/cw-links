@@ -1,13 +1,15 @@
-{
-  "title": "Cloudwalk",
-  "links": [
-    {
-      "text": "About us",
-      "url": "https://www.cloudwalk.io"
-    },
-    {
-      "text": "Infinitepay",
-      "url": "https://www.infinitepay.io"
-    }
-  ]
-}
+[
+  {
+    "title": "Cloudwalk",
+    "links": [
+      {
+        "text": "About us",
+        "url": "https://www.cloudwalk.io"
+      },
+      {
+        "text": "Infinitepay",
+        "url": "https://www.infinitepay.io"
+      }
+    ]
+  }
+]
